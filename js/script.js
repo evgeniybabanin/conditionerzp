@@ -55,7 +55,7 @@ function validateForms (form) {
           name: "Введите ваше имя",
           phone: "Введите ваш телефон",
           email: {
-            required: "Для связи с вами необходим корректный e-mail адрес",
+            required: "Введите ваш e-mail адрес",
             email: "Ваш email адрес должен быть в формате name@domain.com"
           }
         }
